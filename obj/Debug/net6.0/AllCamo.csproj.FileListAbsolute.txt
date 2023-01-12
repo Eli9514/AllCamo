@@ -1,0 +1,5 @@
+C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.csproj.AssemblyReference.cache
+C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.AssemblyInfoInputs.cache
+C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.AssemblyInfo.cs
+C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.csproj.CoreCompileInputs.cache

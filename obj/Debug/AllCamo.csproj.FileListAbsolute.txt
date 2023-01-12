@@ -1,0 +1,2 @@
+C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\AllCamo.csproj.AssemblyReference.cache
+C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\AllCamo.csproj.CoreCompileInputs.cache

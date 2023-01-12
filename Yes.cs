@@ -1,22 +1,18 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: Banan.Yes
-// Assembly: Banan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 3FB8E417-3176-4768-8D1F-FED9FCF290D0
-// Assembly location: D:\SteamLibrary\steamapps\common\BloonsTD6\Mods\AllCamo.dll
-
-using Assets.Scripts.Models;
-using Assets.Scripts.Models.Bloons;
-using Assets.Scripts.Models.Bloons.Behaviors;
-using Assets.Scripts.Models.Towers;
-using Assets.Scripts.Models.Towers.Behaviors;
-using Assets.Scripts.Models.Towers.Behaviors.Abilities;
-using Assets.Scripts.Models.Towers.Behaviors.Abilities.Behaviors;
-using Assets.Scripts.Models.Towers.Behaviors.Attack;
-using Assets.Scripts.Models.Towers.Weapons;
-using Assets.Scripts.Utils;
-using HarmonyLib;
+﻿using Il2CppInterop.Runtime;
 using Il2CppInterop.Runtime.InteropTypes;
 using Il2CppInterop.Runtime.InteropTypes.Arrays;
+using Il2CppInterop.Runtime;
+using Il2CppAssets.Scripts.Models;
+using Il2CppAssets.Scripts.Models.Bloons;
+using Il2CppAssets.Scripts.Models.Bloons.Behaviors;
+using Il2CppAssets.Scripts.Models.Towers;
+using Il2CppAssets.Scripts.Models.Towers.Behaviors;
+using Il2CppAssets.Scripts.Models.Towers.Behaviors.Abilities;
+using Il2CppAssets.Scripts.Models.Towers.Behaviors.Abilities.Behaviors;
+using Il2CppAssets.Scripts.Models.Towers.Behaviors.Attack;
+using Il2CppAssets.Scripts.Models.Towers.Weapons;
+using Il2CppAssets.Scripts.Utils;
+using HarmonyLib;
 using System;
 using System.Collections.Generic;
 using System.Linq;
