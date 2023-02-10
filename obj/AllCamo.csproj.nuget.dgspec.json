@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\16235\\Desktop\\AllCamo-AllCamo\\AllCamo.csproj": {}
+    "D:\\Downloads\\AllCamo-AllCamo_v2.1 (6)\\AllCamo-AllCamo_v2.1\\AllCamo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\16235\\Desktop\\AllCamo-AllCamo\\AllCamo.csproj": {
+    "D:\\Downloads\\AllCamo-AllCamo_v2.1 (6)\\AllCamo-AllCamo_v2.1\\AllCamo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\16235\\Desktop\\AllCamo-AllCamo\\AllCamo.csproj",
+        "projectUniqueName": "D:\\Downloads\\AllCamo-AllCamo_v2.1 (6)\\AllCamo-AllCamo_v2.1\\AllCamo.csproj",
         "projectName": "AllCamo",
-        "projectPath": "C:\\Users\\16235\\Desktop\\AllCamo-AllCamo\\AllCamo.csproj",
+        "projectPath": "D:\\Downloads\\AllCamo-AllCamo_v2.1 (6)\\AllCamo-AllCamo_v2.1\\AllCamo.csproj",
         "packagesPath": "C:\\Users\\16235\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\16235\\Desktop\\AllCamo-AllCamo\\obj\\",
+        "outputPath": "D:\\Downloads\\AllCamo-AllCamo_v2.1 (6)\\AllCamo-AllCamo_v2.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

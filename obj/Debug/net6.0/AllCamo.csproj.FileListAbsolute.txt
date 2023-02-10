@@ -1,5 +1,65 @@
-C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.csproj.AssemblyReference.cache
-C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.AssemblyInfoInputs.cache
-C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.AssemblyInfo.cs
-C:\Users\16235\Desktop\AllCamo-AllCamo\obj\Debug\net6.0\AllCamo.csproj.CoreCompileInputs.cache
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AllCamo.deps.json
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AllCamo.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\0Harmony.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Btd6ModHelper.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MelonLoader.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MonoMod.Utils.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MonoMod.RuntimeDetour.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\bHapticsLib.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AssetRipper.VersionUtilities.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AssetsTools.NET.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Tomlet.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.DotNet.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.PE.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Microsoft.Diagnostics.Runtime.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.PE.File.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\WebSocketDotNet.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MelonLoader.xml
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Btd6ModHelper.xml
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.csproj.AssemblyReference.cache
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.AssemblyInfoInputs.cache
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.AssemblyInfo.cs
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.csproj.CoreCompileInputs.cache
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.csproj.CopyComplete
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\refint\AllCamo.dll
+C:\Users\gjguz\Downloads\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\ref\AllCamo.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AllCamo.deps.json
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AllCamo.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\0Harmony.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Btd6ModHelper.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MelonLoader.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MonoMod.Utils.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MonoMod.RuntimeDetour.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\bHapticsLib.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AssetRipper.VersionUtilities.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AssetsTools.NET.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Tomlet.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.DotNet.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.PE.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Microsoft.Diagnostics.Runtime.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\AsmResolver.PE.File.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\WebSocketDotNet.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\bin\Debug\net6.0\MelonLoader.xml
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.csproj.AssemblyReference.cache
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.AssemblyInfoInputs.cache
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.AssemblyInfo.cs
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.csproj.CoreCompileInputs.cache
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.csproj.CopyComplete
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\AllCamo.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\refint\AllCamo.dll
+D:\Downloads\AllCamo-AllCamo_v2.1 (6)\AllCamo-AllCamo_v2.1\obj\Debug\net6.0\ref\AllCamo.dll

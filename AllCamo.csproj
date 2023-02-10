@@ -1,23 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-	<PropertyGroup>
-		<TargetFramework>net6.0</TargetFramework>
-		<RootNamespace>AllCamo</RootNamespace>
-		<Configurations>Debug;Release</Configurations>
-		<Nullable>enable</Nullable>
-		<AssemblyName>AllCamo</AssemblyName>
-		<LangVersion>latest</LangVersion>
-		<Optimize>False</Optimize>
-		<DebugType>embedded</DebugType>
-	</PropertyGroup>
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>AllCamo</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>AllCamo</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
 
-	<Import Project="..\btd6.targets" />
-
-	<ItemGroup>
-	  <Reference Include="Il2CppInterop.Common">
-	    <HintPath>D:\SteamLibrary\steamapps\common\BloonsTD6\MelonLoader\Dependencies\Il2CppAssemblyGenerator\Il2CppInterop.Common.dll</HintPath>
-	  </Reference>
-	  <Reference Include="Il2CppInterop.HarmonySupport">
-	    <HintPath>D:\SteamLibrary\steamapps\common\BloonsTD6\MelonLoader\Dependencies\Il2CppAssemblyGenerator\Il2CppInterop.HarmonySupport.dll</HintPath>
-	  </Reference>
-	</ItemGroup>
+    <Import Project="..\btd6.targets"/>
 </Project>
